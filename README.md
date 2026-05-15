@@ -6,8 +6,8 @@
 <img src="img/photo_2026-05-14_16-41-52.jpg" alt="Выглядит так" width="600">
 <img src="img/photo_2026-05-14_16-41-53.jpg" alt="Выглядит так" width="600">
 <img src="img/photo_2026-05-14_16-52-46.jpg" alt="Выглядит так" width="600">
-<a href="img/video_2026-05-15_12-24-35.mp4" alt="Выглядит так" width="600"</a>
-<a href="img/video_2026-05-15_12-24-56.mp4" alt="Выглядит так" width="600"</a>
+<a href="img/video_2026-05-15_12-24-35.mp4">Видосик 1</a>
+<a href="img/video_2026-05-15_12-24-56.mp4">Видосик 2</a>
 
 Visual Studio Code
 
